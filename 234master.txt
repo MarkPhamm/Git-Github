@@ -5,3 +5,7 @@ Git message
 3. git init (initialize a Git repository - create a .git)
 4. git add (add the specified file(s) into the Git repository, the staging area)
 5. git add * (add all files into the staging area)
+6. git status (show the modified status of an existing file and the file addition status of a new file, if any, that has to be committed.)
+7. git commit -m “message” (commit records or snapshots files permanently in the version history)
+8. git remote add origin “[URL]” (pushing our code to the remote (central) repository)
+9. git push origin [branch name] 
