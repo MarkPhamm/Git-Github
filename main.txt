@@ -14,3 +14,10 @@ Git message
 12. git branch -D [name-of-the-branch] (deleting a branch)
 13. git checkout [name-of-the-new-branch] (witch to an existing branch within our repository)
 14. git checkout -b [name-of-the-new-branch] (reates a new branch with the given name and switch to that branch)
+
+Delete
+15. git rm [file-name] (deleting files locally)
+16. git add <deleted-file-name> (staging specified deleted file)
+17. git add -u (staging all files)
+18. git restore <deleted-file-name>  (restore before commiting the change)
+19. git checkout HEAD^ <deleted-file-name> (restore after commiting the change) 
