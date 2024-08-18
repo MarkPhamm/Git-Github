@@ -10,4 +10,7 @@ Git message
 8. git remote add origin “[URL]” (pushing our code to the remote (central) repository)
 9. git push origin [branch name] (push into Github)
 10. git clone [URL] (cloning a git repository)
-11. git branch (creating a new branch)
+11. git branch [name-of-the-branch] (creating a new branch)
+12. git branch -D [name-of-the-branch] (deleting a branch)
+13. git checkout [name-of-the-new-branch] (witch to an existing branch within our repository)
+14. git checkout -b [name-of-the-new-branch] (reates a new branch with the given name and switch to that branch)
