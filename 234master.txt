@@ -1,0 +1,7 @@
+Git message
+ 
+1. cd (change directory)
+2. mkdir (make directory)
+3. git init (initialize a Git repository - create a .git)
+4. git add (add the specified file(s) into the Git repository, the staging area)
+5. git add * (add all files into the staging area)
